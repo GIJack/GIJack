@@ -1,12 +1,12 @@
 GI Jack
 ========
-Co-Founder Defcon201, Jersey City's Defcon Group.
-NYC2600 Allumni
-Tinkerer
-Motorcycle Enthusiast
-Arch Linux Fanatic
+- 🐦 Co-Founder Defcon201, Jersey City's Defcon Group.
+- 🐦 NYC2600 Allumni
+- 🐦 Tinkerer
+- 🐦 Motorcycle Enthusiast
+- 🐦 Arch Linux Fanatic
 
-Host, Archville: A Linux Perspective every other thursday, twitch.tv/defcon201live
+**Host, Archville:** A Linux Perspective every other thursday, twitch.tv/defcon201live
 
 
 <!--
