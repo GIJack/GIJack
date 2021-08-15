@@ -6,7 +6,7 @@ GI Jack
 - 🐦 Motorcycle Enthusiast
 - 🐦 Arch Linux Fanatic
 
-**Host, Archville:** A Linux Perspective every other thursday, https://twitch.tv/defcon201live
+**Host, Archville:** A Linux Perspective once a month, third thursday, https://twitch.tv/defcon201live
 
 
 <!--
