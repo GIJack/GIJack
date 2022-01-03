@@ -4,7 +4,7 @@ GI Jack
 - 🐦 NYC2600 Allumni
 - 🐦 Tinkerer
 - 🐦 Motorcycle Enthusiast
-- 🐦 Arch Linux person
+- 🐦 FOSS Linux person
 
 <!--
 **GIJack/GIJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
