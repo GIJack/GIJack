@@ -1,8 +1,11 @@
 GI Jack
 ========
 I Do computer stuff
+
 Twitter: @GI_FUCKEN_JACK
+
 Mastodon: @GI_Jack@mastodon.social
+
 Alt Mastodon: @GI_Jack@defcon.social
 
 <!--
