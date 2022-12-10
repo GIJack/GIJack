@@ -1,10 +1,9 @@
 GI Jack
 ========
-- 🐦 Co-Founder and Emeretus Defcon Group 201, Jersey City's Defcon Group.
-- 🐦 NYC2600 Allumni
-- 🐦 Tinkerer
-- 🐦 Motorcycle Enthusiast
-- 🐦 does Linux stuff
+I Do computer stuff
+Twitter: @GI_FUCKEN_JACK
+Mastodon: @GI_Jack@mastodon.social
+Alt Mastodon: @GI_Jack@defcon.social
 
 <!--
 **GIJack/GIJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
