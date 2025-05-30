@@ -6,7 +6,7 @@ Mastodon: @GI_Jack@defcon.social
 
 Alt Mastodon: @GI_Jack@mastodon.social
 
-BlueSky: @gijack.was.holding.the.goatse.camera
+BlueSky: @gijack.bsky.allsystems.fail‬
 
 <!--
 **GIJack/GIJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
